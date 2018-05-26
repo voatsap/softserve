@@ -1,4 +1,4 @@
-## Provectus 2018 Building with Terraform code samples
+## Softserve Meetup 2018 Building with Terraform code samples
 
 [Presentation Slides](https://docs.google.com/presentation/d/1ZYWxuzoPwWyzmrM-GJvCnP8DurLZqGRLg-xYMHO4JIw/edit?usp=sharing)
 
